@@ -1,0 +1,13 @@
+
+{
+	"Name": "MyOrthancTest",
+	"AuthenticationEnabled": true,
+	"RegisteredUsers": {
+		"admin": "admin"
+	},
+	"DicomWeb": {
+		"Enable": true
+	},
+	"HttpServerEnabled": true,
+	"RemoteAccessAllowed": true
+}
