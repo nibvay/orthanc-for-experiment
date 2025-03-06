@@ -16,3 +16,6 @@
 
 ## Orthanc.json
 * configuration file: https://orthanc.uclouvain.be/hg/orthanc/file/Orthanc-1.12.6/OrthancServer/Resources/Configuration.json/
+
+## DICOM file example
+*  https://www.dicomlibrary.com/
