@@ -9,5 +9,11 @@
 		"Enable": true
 	},
 	"HttpServerEnabled": true,
-	"RemoteAccessAllowed": true
+	"RemoteAccessAllowed": true,
+	"PostgreSQL": {
+		"EnableIndex" : true,
+    "EnableStorage" : true,
+		"EnableVerboseLogs" : true,
+		"ConnectionUri" : "postgresql://admin:admin123123@postgres:5432/dicom_db"
+	}
 }
