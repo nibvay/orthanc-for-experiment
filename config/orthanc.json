@@ -14,6 +14,6 @@
 		"EnableIndex" : true,
     "EnableStorage" : true,
 		"EnableVerboseLogs" : true,
-		"ConnectionUri" : "postgresql://admin:admin123123@postgres:5432/dicom_db"
+		"ConnectionUri": "postgresql://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}"
 	}
 }
